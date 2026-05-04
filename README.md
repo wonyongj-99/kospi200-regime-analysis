@@ -22,16 +22,16 @@
 ## 주요 결과 시각화
 
 ### 데이터 개요 (2007.01 ~ 2025.12)
-![Data Overview](images/data_overview.png)
+![Data Overview](image/data_overview.png)
 
 ### 수익률 분포 특성
-![Return Distribution](images/return_distribution.png)
+![Return Distribution](image/return_distribution.png)
 
 ### PELT 변화점 탐지 결과
-![PELT Breakpoints](images/pelt_results.png)
+![PELT Breakpoints](image/pelt_results.png)
 
 ### 체제별 분석 결과
-![Regime Analysis](images/regime_analysis.png)
+![Regime Analysis](image/regime_analysis.png)
 
 ## 데이터
 직접 다운로드 후 `data/` 폴더에 저장 필요.
