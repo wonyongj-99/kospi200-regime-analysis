@@ -19,6 +19,20 @@
 | 레버리지 효과 | 전 체제 γ < 0, Regime 5에서 γ = −0.719 극대화 |
 | 헤지 효율성 | Regime 5: 97.83% vs 단일 모형: 94.26% |
 
+## 주요 결과 시각화
+
+### 데이터 개요 (2007.01 ~ 2025.12)
+![Data Overview](images/data_overview.png)
+
+### 수익률 분포 특성
+![Return Distribution](images/return_distribution.png)
+
+### PELT 변화점 탐지 결과
+![PELT Breakpoints](images/pelt_results.png)
+
+### 체제별 분석 결과
+![Regime Analysis](images/regime_analysis.png)
+
 ## 데이터
 직접 다운로드 후 `data/` 폴더에 저장 필요.
 
